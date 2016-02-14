@@ -1,5 +1,5 @@
 # Exploratory Data Analysis - Assignment 2 - Q. #1
-# Ron Mashrouteh May 23, 2014
+# Tbaber 2/13/16
 
 # Loading provided datasets - loading from local machine
 NEI <- readRDS("~/Plot_Project_2/Plot_Project_2/summarySCC_PM25.rds")
