@@ -23,5 +23,5 @@ source("./plot2.R") produces plot2.png
 source("./plot3.R") produces plot3.png
 source("./plot4.R") produces plot4.png
 source("./plot5.R") produces plot5.png
-source("./plot6.R") produces plot6.png
+source("./plot6.R") produces Plot_6.png
 prepare_data.R is a utility program that downloads and prepares the data. All six of the above programs use it.
